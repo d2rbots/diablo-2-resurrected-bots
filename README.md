@@ -1,4 +1,4 @@
-# diablo-2-resurrected-bots
+# diablo-2-resurrected-bots: d2rmab source code
 
 #Region
 	#AutoIt3Wrapper_Icon=data\icon.ico
