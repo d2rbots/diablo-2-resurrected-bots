@@ -1,4 +1,4 @@
-# diablo-2-resurrected-bots: d2rmab source code
+# diablo-2-resurrected-bots: d2rmab source code https://codedeception.net/cracked-d2r-bot-source-code/
 
 #Region
 	#AutoIt3Wrapper_Icon=data\icon.ico
